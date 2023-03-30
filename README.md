@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-## <p align="center"> Hi there <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"> this is Simanta </p>
+## <p align="center"> Hi there this is Simanta </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Simanta-Developer" alt="https://github.com/Simanta-Developer"> </p>
 <img align="right" width=380px height=250px alt="side_sticker" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"> </p>
