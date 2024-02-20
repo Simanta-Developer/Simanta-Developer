@@ -5,9 +5,9 @@
 <img align="right" width=380px height=250px alt="side_sticker" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"> </p>
 
 ## :computer: About me :
-:point_right: I am currently learning **Data Structure and Algorithms**.
+:point_right: I am regular in solving problems in **Data Structure and Algorithms**.
 
-:point_right: I am exploring more of **web-development**.
+:point_right: I am exploring more of **web-development** and **system design**.
 
 :point_right: I am commited to improve my **documentation**.
 
